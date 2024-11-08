@@ -1,9 +1,5 @@
-# Bootcamp QA
-
-<img src="C:\Users\rael_\OneDrive\Dokumente\BOOTCAMP-QA-TRIPLETEN\Noções basicas de teste\Img\logo.png" width="300" />
-
-
-## *Sprint 1* 
+# Bootcamp Tripleten 
+   ## Analista de QA - *Sprint 1*
 
    ### Noções Basicas De Teste
 
@@ -60,10 +56,6 @@
 
 - Casos de teste
 - Relatórios de bug
-
-## Certificação
-
-<img src="C:\Users\rael_\OneDrive\Dokumente\BOOTCAMP-QA-TRIPLETEN\Noções basicas de teste\Img\Certificado Sprint 1.png" width="800" />
 
 ## Conclusão
 
