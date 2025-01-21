@@ -57,6 +57,14 @@
 - Casos de teste
 - Relatórios de bug
 
+### Como Executar o Projeto
+
+- *Clone o repositório do projeto.*
+- *Navegue até o diretório do projeto e abra seu editor de código favorito.*
+- *Execute os testes conforme os checklists criados e registre os resultados.*
+
+### Obs: Para acessar a documentação da API e realizar os testes é necessário ter acesso ao servidor não disponível nesse momento.
+
 ## Conclusão
 
 >*Concluindo a primeira sprint do Bootcamp de QA, sinto que dei meus primeiros passos sólidos na área de Qualidade de Software. Aprendi o que são testes de software e como o analista de QA participa em cada fase do desenvolvimento, sempre buscando garantir a melhor experiência para o usuário final.*
