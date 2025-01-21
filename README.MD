@@ -1,7 +1,5 @@
-# Bootcamp Tripleten 
-   ## Analista de QA - *Sprint 1*
-
-   ### Noções Basicas De Teste
+# Teste de Fumaça e Regreção
+  
 
 #### Introdução à Análise de QA
 - *Introdução ao Sprint 1*
